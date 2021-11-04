@@ -1,4 +1,3 @@
-export
 import cards from "../templates/cards.hbs";
 import arrayCards from "../menu.json";
 import refs from "./refs";

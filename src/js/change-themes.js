@@ -1,4 +1,3 @@
-export
 import { Theme } from "./cheked";
 import refs from "./refs";
 const { LIGHT, DARK } = Theme;
